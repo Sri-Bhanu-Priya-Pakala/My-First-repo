@@ -1,9 +1,10 @@
 #include<stdio.h>
 void main()
 {
-int a,b,c;
-printf("enter two numbers");
-scanf("%d%d",&a,&b);
-c=a+b;
+int a,b,c,d;
+printf("enter three numbers");
+scanf("%d%d%d",&a,&b,&d);
+c=a+b+d;
+print("sum of three is")
 printf("%d",c);
 }
