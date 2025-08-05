@@ -1,0 +1,7 @@
+Name    :  Sri Bhanu Priya Pakala
+
+Course  :  Bsc-Data Science
+
+One thing I learned from Github:
+                   I learned how to create repositories, develop and manage projects, and effectively 
+showcase my work to others using GitHub.
